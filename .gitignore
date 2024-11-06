@@ -1,0 +1,2 @@
+# Игнорировать файл с учетными данными Firebase
+project_root/config/firebase_credentials.json
